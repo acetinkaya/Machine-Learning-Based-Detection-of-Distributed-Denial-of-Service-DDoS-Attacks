@@ -32,3 +32,4 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 ---
 
+## Kongre Bilgileri: 
