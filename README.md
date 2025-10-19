@@ -40,4 +40,4 @@ Kongre Tarihleri: September 11-13, 2025 Istanbul, Turkey
 
 Kongre Erişim Sayfası: [https://theicmme.org/](https://theicmme.org/)
 
-Kongre Abstract Book:
+Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf)
