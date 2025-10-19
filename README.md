@@ -11,3 +11,4 @@ Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul
 Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul, Turkey 
 
 - **Güzel Elif Yeşilkir**     
+Istanbul Gelisim 
