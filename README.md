@@ -17,4 +17,5 @@ Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul
 Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Systems Technician Program, Istanbul, Turkey
 
 - **Mehmet Ali Barışkan**     
-Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Computer Engineering, 
+Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Computer Engineering, Istanbul, Turkey
+
