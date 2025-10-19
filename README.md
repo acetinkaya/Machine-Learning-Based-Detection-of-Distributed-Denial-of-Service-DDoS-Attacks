@@ -20,3 +20,4 @@ Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Syst
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Computer Engineering, Istanbul, Turkey
 
 - **Serkan Gönen**     
+Istanbul 
