@@ -9,3 +9,5 @@ Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul
 
 - **İrem Tuğçe Daşçi**     
 Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul, Turkey 
+
+- **Güzel Elif Yeşilkir**     
