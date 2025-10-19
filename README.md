@@ -23,4 +23,4 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Software Engineering, Istanbul, Turkey
 
 - **Gökçe Karacayılmaz**     
-Istanbul Gelisim 
+Istanbul Gelisim University, Faculty 
