@@ -8,4 +8,4 @@ Machine Learning-Based Detection of Distributed Denial-of-Service (DDoS) Attacks
 Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul, Turkey 
 
 - **İrem Tuğçe Daşçi**     
-Istanbul Gelisim University, 
+Istanbul Gelisim University, ISTKA 
