@@ -19,3 +19,4 @@ Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Syst
 - **Mehmet Ali Barışkan**     
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Computer Engineering, Istanbul, Turkey
 
+- **Serkan Gönen**     
