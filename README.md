@@ -16,3 +16,4 @@ Istanbul Gelisim University, ISTKA Cyber ​​Academy Training Center, Istanbul
 - **[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)**     
 Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Systems Technician Program, Istanbul, Turkey
 
+- **Mehmet Ali Barışkan**     
