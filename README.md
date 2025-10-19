@@ -5,4 +5,5 @@ Machine Learning-Based Detection of Distributed Denial-of-Service (DDoS) Attacks
 ## Authors
 
 - **[Beyzanur Çelik]**     
-Istanbul Gelisim University, 
+Istanbul Gelisim University, ISTKA Cyber ​​Academy 
+
