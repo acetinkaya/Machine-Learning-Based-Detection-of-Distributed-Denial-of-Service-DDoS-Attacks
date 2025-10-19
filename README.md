@@ -26,4 +26,4 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Mechatronics Engineering, Istanbul, Türkiye
 
 - **Deniz Dahman**     
-Istanbul Gelisim University, Faculty of Engineering and 
+Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Software Engineering, Istanbul, Turkey
