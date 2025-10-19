@@ -34,4 +34,4 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: ICMME 2025 - 
+Kongre İsmi: ICMME 2025 - International Conference on 
