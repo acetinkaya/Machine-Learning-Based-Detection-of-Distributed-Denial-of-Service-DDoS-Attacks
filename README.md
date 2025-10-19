@@ -36,4 +36,4 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 Kongre İsmi: ICMME 2025 - International Conference on Mathematics and Mathematics Education 
 
-Kongre Tarihleri: 
+Kongre Tarihleri: September 11-13, 2025 
