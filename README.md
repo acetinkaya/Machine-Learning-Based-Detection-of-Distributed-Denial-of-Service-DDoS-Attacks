@@ -27,3 +27,6 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 - **Deniz Dahman**     
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Software Engineering, Istanbul, Turkey
+
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
+
