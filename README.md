@@ -24,3 +24,6 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 - **Gökçe Karacayılmaz**     
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Mechatronics Engineering, Istanbul, Türkiye
+
+- **Deniz Dahman**     
+Istanbul Gelisim University, Faculty of Engineering and 
