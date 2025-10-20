@@ -63,6 +63,7 @@ REFERENCES
 [4] Arshi, M., Nasreen, M. D., & Madhavi, K. (2020). A survey of DDoS attacks using machine learning techniques. E3S Web of Conferences, 184, 01052. https://doi.org/10.1051/e3sconf/202018401052    
 [5] Fouladi, R. F., Kayatas, C. E., & Anarim, E. (2016). Frequency-based DDoS attack detection approach using Naive Bayes classification. In 2016 39th International Conference on Telecommunications and Signal Processing (TSP) (pp. 104–107). IEEE.    
 [6] Başkaya, D. (2020). Çevrimiçi Sistemlerde Makine Öğrenme Yöntemi Ile Dağıtılmış Hizmet Reddi (DDOS) Saldırılarının Tespiti (Master's thesis, Ankara Universitesi (Turkey)).    
-[7] Karaman, M. S., Turan, M., & Aydın, M. A. (2020). Yapay sinir ağı kullanılarak anomali tabanlı saldırı tespit modeli uygulaması. Avrupa Bilim ve Teknoloji Dergisi, 
+[7] Karaman, M. S., Turan, M., & Aydın, M. A. (2020). Yapay sinir ağı kullanılarak anomali tabanlı saldırı tespit modeli uygulaması. Avrupa Bilim ve Teknoloji Dergisi, (Ejosat Ek Özel Sayı (HORA)), 10-17.    
+
 
 
