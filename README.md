@@ -32,6 +32,8 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/3.png)
+
 ---
 
 ## Kongre Bilgileri: 
