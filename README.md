@@ -44,6 +44,8 @@ Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](http
 
 ![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/1.png)
 
+![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/2.png)
+
 ---
 
 ![alternatif metin](
