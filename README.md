@@ -59,4 +59,5 @@ Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](http
 REFERENCES     
 [1] Maregeli, C. N. (2010). A study on TCP SYN attacks and their effects on a network infrastructure (Master’s thesis). Delft University of Technology.   
 [2] Verma, V., & Kumar, V. (2021). DoS/DDoS attack detection using machine learning: A review. In Proceedings of the International Conference on Innovative Computing & Communication (ICICC).    
-[3] Sofi, I., Mahajan, A., & Mansotra, V. (2017). Machine learning techniques used for the detection and analysis of modern types of DDoS attacks. 
+[3] Sofi, I., Mahajan, A., & Mansotra, V. (2017). Machine learning techniques used for the detection and analysis of modern types of DDoS attacks. International Research Journal of Engineering and Technology (IRJET), 4(6), 1085–1092.
+
