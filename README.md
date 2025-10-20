@@ -34,6 +34,8 @@ Istanbul Gelisim University, Faculty of Engineering and Architecture, Department
 
 ![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/3.png)
 
+![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/4.png)
+
 ---
 
 ## Kongre Bilgileri: 
@@ -54,4 +56,4 @@ Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](http
 
 ---
 
-![alternatif metin](
+
