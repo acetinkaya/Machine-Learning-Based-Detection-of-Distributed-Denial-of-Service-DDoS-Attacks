@@ -56,5 +56,5 @@ Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](http
 
 ---
 
-REFERENCES 
-[1] Maregeli, C. N. (2010). 
+REFERENCES     
+[1] Maregeli, C. N. (2010). A study on TCP SYN attacks and their effects
