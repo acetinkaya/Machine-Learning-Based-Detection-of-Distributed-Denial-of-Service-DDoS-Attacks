@@ -42,6 +42,8 @@ Kongre Erişim Sayfası: [https://theicmme.org/](https://theicmme.org/)
 
 Kongre Abstract Book: [https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf](https://theicmme.org/ICMME-2025-ABSTRACT%20BOOK.pdf)
 
+![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/1.png)
+
 ---
 
-![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/1.png)
+![alternatif metin](
